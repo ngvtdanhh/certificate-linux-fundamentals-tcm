@@ -35,7 +35,7 @@ All notes are written in Markdown and organized by topic:
 
 ## 📜 Certificate
 
-- ✅ [View Certificate (PDF)](./cert/linux100-tcm-certificate.pdf)
+- - 🧠 [Linux 100: Fundamentals – TCM Security](./cert/linux100-tcm-certificate.pdf)
 
 ---
 
