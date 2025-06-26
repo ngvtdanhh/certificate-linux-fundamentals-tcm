@@ -91,6 +91,6 @@ See [`LICENSE`](./LICENSE) for full details.
 
 **Thành Danh** – Pentester & Cybersecurity Research  
 
-GitHub: [@ngvuthdanh](https://github.com/ngvuthdanh)  
+GitHub: [@ngvuthdanh](https://github.com/ngvtdanhh)  
 
 Email: ngvu.thdanh@gmail.com
