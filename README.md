@@ -22,14 +22,14 @@ All notes are written in Markdown and organized by topic:
 
 ---
 
-## 📸 Lesson Screenshots
+## 📸 Course Overview Screenshots
 
-| Topic             | Screenshot |
-|------------------|------------|
-| 🔧 Bash Commands  | ![](./screenshots/lesson-bash-commands.png) |
-| 📂 File Permissions | ![](./screenshots/lesson-file-permissions.png) |
-| 👥 User Management | ![](./screenshots/lesson-user-management.png) |
-| 🌐 Networking Tools | ![](./screenshots/lesson-networking.png) |
+| Lesson                | Screenshot |
+|------------------------|------------|
+| 📘 Introduction        | ![](./screenshots/lesson-introduction.png) |
+| 🐧 Linux Basics        | ![](./screenshots/lesson-linux.png) |
+| 🧪 Lab Setup           | ![](./screenshots/lesson-setting-our-lab.png) |
+| ✅ Course Conclusion   | ![](./screenshots/lesson-conclusion.png) |
 
 ---
 
