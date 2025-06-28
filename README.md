@@ -78,6 +78,14 @@ All notes are written in Markdown and organized by topic:
 - Course from: [TCM Security](https://tcm-security.com)
 - Learning focus: CLI practice, privilege management, and foundational networking
 
+## ✍️ Author
+
+**Thành Danh** – Pentester & Cybersecurity Research  
+
+GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)  
+
+Email: ngvu.thdanh@gmail.com
+
 ---
 
 ## 📄 License
@@ -86,11 +94,3 @@ This project is licensed under the terms of the **GNU AGPL v3.0**.
 See [`LICENSE`](./LICENSE) for full details.
 
 © 2025 ngvtdanhh. All rights reserved.
-
-## ✍️ Author
-
-**Thành Danh** – Pentester & Cybersecurity Research  
-
-GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)  
-
-Email: ngvu.thdanh@gmail.com
