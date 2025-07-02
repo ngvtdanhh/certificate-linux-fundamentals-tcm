@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
 ![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=readthedocs)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat-square&logo=linux)
-
+![Author](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
 This repository contains summarized notes, demo scripts, and the completion certificate for the **Linux 100: Fundamentals** course by TCM Security.
 
