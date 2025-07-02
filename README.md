@@ -1,5 +1,11 @@
 # 🐧 Linux Fundamentals – TCM Security (Linux 100)
 
+![Course](https://img.shields.io/badge/TCM%20Security-Certified-brightgreen?style=flat-square&logo=gnu)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
+![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=readthedocs)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat-square&logo=linux)
+
+
 This repository contains summarized notes, demo scripts, and the completion certificate for the **Linux 100: Fundamentals** course by TCM Security.
 
 ---
